@@ -1,0 +1,75 @@
+body {
+	background: #00FFFF;
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+}
+#container {
+	background: #FFFFFF;
+	margin: 10px auto;
+	width: 770px;
+    border: 1px solid #000000;
+    color: #000000;
+}
+header {
+	background-image:url('../images/banner_bg.jpg'); 
+background-repeat:no-repeat;
+	height:110px;
+}
+nav {
+	border-bottom: 1px solid #000000;
+}
+nav ul {
+	background: #315338;
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li a {
+	color: #FFFFFF;
+background: #3333CC;
+text-decoration: none;
+	padding: 0px 25px;
+	border-right: 1px solid #000000;
+}
+nav ul li a:hover {
+	background: #990000;
+}
+article p {
+	font-size: 80%;
+	margin: 20px;
+}
+article h1 {
+	font-size: 130%;
+	color: #003366;
+	margin: 20px;
+	padding: 0px;
+}
+article h2 {
+	font-size: 110%;
+	color: #003366;
+	margin: 20px;
+	padding: 0px;
+}
+article {
+	padding:10px;
+}
+.leftimage {
+	float: left;
+	margin-right: 10px;
+	border: 1px solid #000000;
+}
+.rightimage {
+	float: right;
+	margin-left: 15px;
+	border: 1px solid #000000;
+}
+hr {
+    clear: both;
+    visibility: hidden;
+}
