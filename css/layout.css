@@ -73,3 +73,14 @@ hr {
     clear: both;
     visibility: hidden;
 }
+footer { 
+	color: #FFFFFF; 
+	background: #315338; 
+	border-top: 1px solid #000000;
+	}
+	footer p {
+		font-size: 70%; 
+		margin: 0px; padding: 10px;
+		text-align: center;
+		}
+	
